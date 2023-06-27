@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[Check out my portfolio page](https://joe-weber.com/ "Portfolio Site")
+Check out [my portfolio website](https://joe-weber.com/ "Portfolio Site")
 
 
 <!--
